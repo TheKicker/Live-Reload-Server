@@ -1,4 +1,4 @@
-## LiveReloadServer
+## Live-Reload-Server
 
 ### Instantly Live Reload Your Local HTML, CSS, and JS Projects
 
@@ -23,8 +23,8 @@ LiveReloadServer is a lightweight and powerful Node.js CLI tool designed for dev
 #### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/LiveReloadServer.git
-   cd LiveReloadServer
+   git clone https://github.com/thekicker/Live-Reload-Server.git
+   cd Live-Reload-Server
    ```
 
 2. **Install dependencies:**
@@ -40,4 +40,4 @@ LiveReloadServer is a lightweight and powerful Node.js CLI tool designed for dev
 
 4. **Follow the prompts to select your project folder and start live reloading!**
 
-Get started with LiveReloadServer and enhance your local development workflow today!
+Get started with Live-Reload-Server and enhance your local development workflow today!
