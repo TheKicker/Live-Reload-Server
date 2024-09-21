@@ -2,7 +2,7 @@
   "dependencies": {
     "chokidar": "^3.6.0",
     "connect-livereload": "^0.6.1",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "ip": "^2.0.1",
     "livereload": "^0.9.3",
     "open": "^10.1.0",
